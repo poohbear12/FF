@@ -13,7 +13,9 @@
 ```
 
 ## 使用说明
-
+Function char one(String name) {
+  return name.charAt(0);
+}
 ```bash
 # 使用示例
 ```
